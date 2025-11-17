@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - {t: \, s: '|'}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - AltGr+RIGHT META
   - A
   - S
   - D
